@@ -5,6 +5,12 @@ Dự án được xây dựng nhằm mục đích **demo xin thực tập Flutte
 
 ---
 
+## 🖼️ Ảnh minh họa
+
+## ![Tên ảnh](images_demo/UI_DEMO.png)
+
+---
+
 ## 🚀 Tính năng chính
 
 - Thêm công việc mới
@@ -71,10 +77,6 @@ Dự án này được xây dựng nhằm:
 - Nâng cao kỹ năng thiết kế giao diện, quản lý trạng thái và thao tác với cơ sở dữ liệu trong Flutter thông qua dự án thực tế.
 
 ---
-
-## 🖼️ Ảnh minh họa
-
-![Tên ảnh](images_demo/Figma_CRUD.png)
 
 ## 📧 Liên hệ
 
