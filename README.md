@@ -7,12 +7,12 @@ Dự án được xây dựng nhằm mục đích **demo xin thực tập Flutte
 
 ## 🚀 Tính năng chính
 
-- 🆕 Thêm công việc mới
-- ✏️ Chỉnh sửa thông tin công việc
-- ❌ Xóa công việc
-- ✅ Đánh dấu hoàn thành / chưa hoàn thành
-- 📱 Lưu trữ dữ liệu **cục bộ bằng SQLite**
-- 🎨 Giao diện tối giản, dễ sử dụng
+- Thêm công việc mới
+- Chỉnh sửa thông tin công việc
+- Xóa công việc
+- Đánh dấu hoàn thành/chưa hoàn thành
+- Lưu trữ dữ liệu **cục bộ bằng SQLite**
+- Giao diện tối giản, dễ sử dụng
 
 ---
 
@@ -22,7 +22,7 @@ Dự án được xây dựng nhằm mục đích **demo xin thực tập Flutte
 - **Ngôn ngữ:** Dart
 - **Database:** SQLite (thông qua `sqflite` package)
 - **State Management:** Provider
-- **IDE:** Android Studio / VSCode
+- **IDE:** VSCode
 
 ---
 
