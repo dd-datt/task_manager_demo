@@ -30,18 +30,18 @@ Dự án được xây dựng nhằm mục đích **demo xin thực tập Flutte
 
 ```plaintext
 lib/
- ├── main.dart                     # File khởi động ứng dụng
+ ├── main.dart                              # File khởi động ứng dụng
  ├── database/
- │    └── database_helper.dart     # Quản lý kết nối & CRUD SQLite
+ │    └── database_helper.dart              # Quản lý kết nối & CRUD SQLite
  ├── models/
- │    └── task.dart                # Model dữ liệu công việc
+ │    └── task.dart                         # Model dữ liệu công việc
  ├── providers/
- │    └── task_provider.dart       # Quản lý trạng thái toàn cục
+ │    └── task_provider.dart                # Quản lý trạng thái toàn cục
  ├── screens/
- │    ├── task_list_screen.dart    # Màn hình danh sách công việc
- │    └── add_edit_task_screen.dart# Màn hình thêm/chỉnh sửa công việc
+ │    ├── task_list_screen.dart             # Màn hình danh sách công việc
+ │    └── add_edit_task_screen.dart         # Màn hình thêm/chỉnh sửa công việc
  └── widgets/
-      └── task_card.dart           # Widget hiển thị từng công việc
+      └── task_card.dart                    # Widget hiển thị từng công việc
 ```
 
 ---
@@ -64,11 +64,11 @@ flutter run
 
 ## 🎯 Mục tiêu dự án
 
-Dự án được tạo với mục tiêu:
+Dự án này được xây dựng nhằm:
 
-- Ôn tập và trình diễn kỹ năng Flutter cơ bản.
-- Thể hiện khả năng xây dựng app CRUD với SQLite.
-- Làm portfolio demo khi xin intern Flutter Developer.
+- Tổng hợp và củng cố kiến thức nền tảng về Flutter.
+- Thực hành phát triển ứng dụng CRUD sử dụng SQLite cho lưu trữ cục bộ.
+- Nâng cao kỹ năng thiết kế giao diện, quản lý trạng thái và thao tác với cơ sở dữ liệu trong Flutter thông qua dự án thực tế.
 
 ---
 
